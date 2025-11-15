@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #fff8f9;
+  color: #231f20;
+  min-height: 100vh;
+}
+
+section {
+  scroll-margin-top: 6rem;
+}
